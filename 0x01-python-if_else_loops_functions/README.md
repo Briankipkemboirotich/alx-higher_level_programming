@@ -1,0 +1,1 @@
+School project involving python if else loop functions

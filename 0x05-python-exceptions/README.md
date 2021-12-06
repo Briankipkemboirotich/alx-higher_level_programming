@@ -1,0 +1,1 @@
+School project involving Exceptions in Python programming language

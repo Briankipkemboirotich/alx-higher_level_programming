@@ -1,0 +1,1 @@
+School project involving classes and objects in python programming language

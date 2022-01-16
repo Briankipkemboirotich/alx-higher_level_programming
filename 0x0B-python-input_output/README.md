@@ -1,0 +1,1 @@
+School project involving Input/Output in python

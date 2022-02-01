@@ -1,0 +1,1 @@
+School project involving an introduction to SQL

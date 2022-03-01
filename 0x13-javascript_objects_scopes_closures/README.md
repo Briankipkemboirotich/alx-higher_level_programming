@@ -1,0 +1,1 @@
+School project involving JavaScript - Objects, Scopes and Closures
